@@ -1,0 +1,17 @@
+{
+  "name": "panela-do-chef-ie",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional — Panela do Chef (unidade Irlanda)",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
